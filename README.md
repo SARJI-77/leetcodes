@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SARJI-77/leetcodes/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SARJI-77/leetcodes/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SARJI-77/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
