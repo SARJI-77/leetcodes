@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SARJI-77/leetcodes/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
