@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/SARJI-77/leetcodes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/SARJI-77/leetcodes/tree/master/0151-reverse-words-in-a-string) |
+| [0709-to-lower-case](https://github.com/SARJI-77/leetcodes/tree/master/0709-to-lower-case) |
 ## Array
 |  |
 | ------- |
