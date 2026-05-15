@@ -3,12 +3,16 @@
  * @return {void} Do not return anything, modify s in-place instead.
  */
 var reverseString = function(s) {
+    let left = 0;
+    let right = s.length - 1;
 
-    for (let i = 0, j = s.length - 1; i < j; i++, j--) {
+    while (left < right) {
+        let temp = s[left];
+        s[left] = s[right];
+        s[right] = temp;
 
-        let temp = s[i];
-        s[i] = s[j];
-        s[j] = temp;
+        left++;
+        right--;
     }
-
 };
+
