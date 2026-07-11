@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SARJI-77/leetcodes/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/SARJI-77/leetcodes/tree/master/0504-base-7) |
 | [2413-smallest-even-multiple](https://github.com/SARJI-77/leetcodes/tree/master/2413-smallest-even-multiple) |
+| [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3894-traffic-signal-color](https://github.com/SARJI-77/leetcodes/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
