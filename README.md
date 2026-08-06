@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SARJI-77/leetcodes/tree/master/0136-single-number) |
 | [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
 ## Sorting
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SARJI-77/leetcodes/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SARJI-77/leetcodes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
