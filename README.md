@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SARJI-77/leetcodes/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SARJI-77/leetcodes/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/SARJI-77/leetcodes/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SARJI-77/leetcodes/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/SARJI-77/leetcodes/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SARJI-77/leetcodes/tree/master/0412-fizz-buzz) |
@@ -67,9 +68,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SARJI-77/leetcodes/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/SARJI-77/leetcodes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SARJI-77/leetcodes/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SARJI-77/leetcodes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/SARJI-77/leetcodes/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
