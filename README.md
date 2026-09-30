@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SARJI-77/leetcodes/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SARJI-77/leetcodes/tree/master/0657-robot-return-to-origin) |
 | [3894-traffic-signal-color](https://github.com/SARJI-77/leetcodes/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/SARJI-77/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SARJI-77/leetcodes/tree/master/0136-single-number) |
 | [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
+| [3925-concatenate-array-with-reverse](https://github.com/SARJI-77/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
