@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SARJI-77/leetcodes/tree/master/0136-single-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SARJI-77/leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/SARJI-77/leetcodes/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SARJI-77/leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3024-type-of-triangle](https://github.com/SARJI-77/leetcodes/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/SARJI-77/leetcodes/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SARJI-77/leetcodes/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SARJI-77/leetcodes/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
